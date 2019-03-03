@@ -1,2 +1,1 @@
-# unbot
-Discord bot made to automate UnB Dos Brothers server
+Discord link https://discord.gg/8FGmWk

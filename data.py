@@ -3,3 +3,6 @@ def get_token():
 
 def get_server_id():
     return "ID DO SERVER"
+
+def get_bot_id():
+    return "ID DO BOT"
